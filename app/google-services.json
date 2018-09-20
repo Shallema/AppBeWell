@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217541493213",
+    "firebase_url": "https://loginbewell.firebaseio.com",
+    "project_id": "loginbewell",
+    "storage_bucket": "loginbewell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217541493213:android:ca2b9943cb3f14de",
+        "android_client_info": {
+          "package_name": "mobile.app.bewell.appbewellfragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217541493213-ibthhd31ngc6a3j1iodivhpmk9t5tcna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobile.app.bewell.appbewellfragments",
+            "certificate_hash": "2371648f8f2b16dba329d93f5efbae8da789fddd"
+          }
+        },
+        {
+          "client_id": "217541493213-96nrin05kncbltc4r764qt0hkmpj5l6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqLC3u4GHKqSogmkpEH-QUV7k2uxGzoqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217541493213-96nrin05kncbltc4r764qt0hkmpj5l6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
